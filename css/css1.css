@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;}
+#box{
+	width:800px;
+	height:400px;
+	border:1px solid #CCC;}
+.box1,.box2,.box3{
+	width:800px;
+	height:80px;
+	border:1px solid white;}	
+.b1,.b2,.b3,.b4,.b5,.b6{
+	width:243px;
+	height:50px;
+	border:1px solid red;
+	background:#CCC;
+	float:left;
+	margin:10px;
+	text-align:center;
+	line-height:50px;}
+.b7,.b8{
+	width:46px;
+	height:50px;
+	border:1px solid #0CF;
+	}
+.b9,.b10{
+	width:109px;
+	height:50px;
+	border:1px solid #0CF;
+	}	
+.b11{
+	width:200px;
+	height:50px;
+	border:1px solid #CCC;}
+	.fl{
+		float:left;
+		margin:10px;
+		text-align:center;
+		line-height:50px;
+		background:#CCC;}
